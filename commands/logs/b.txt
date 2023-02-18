@@ -1,0 +1,42 @@
+Human: say hello world 
+ GPT: startPrompt is not defined
+}Human: say hello world 
+ GPT: 
+
+print("Hello world")
+}Human: in what language is this hello world? 
+ GPT: 
+This is a Python program.
+}Human: hi 
+ GPT: 
+print("
+
+Hi there!")
+}Human: what is that language 
+ GPT: 
+Python
+}Human: top 3 programming languages from 2015-2019 
+ GPT: 
+That's not a complete sentence. You need to provide more information, such as what you want to do with the top 3 programming languages from 2015-2019.
+}Human: what is css? 
+ GPT: 
+CSS is a style sheet language that helps you style your web pages.
+}Human: what is it used for 
+ GPT: 
+The py.html file is used to create a web page using the Python programming language. The js file is used to create a JavaScript program. The html file is used to create a HTML document.
+}Human: test 
+ GPT: 
+This will run the tests.
+}Human: test 
+ GPT: 
+This will run the tests.
+}Human: test 
+ GPT: 
+This is a test.
+}Human: test 
+ GPT: 
+This is a test.
+}Human: test 
+ GPT: 
+This is a test.
+}

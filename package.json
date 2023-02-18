@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "discord_valorant",
+  "version": "1.0.0",
+  "description": "Valorant stats bot",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon ./discord_bot/start.js"
+  },
+  "author": "Trollcraft1002",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.0.1",
+    "nodemon": "^2.0.20",
+    "openai": "^3.1.0",
+    "unofficial-valorant-api": "^2.3.0-stable.0"
+  }
+}

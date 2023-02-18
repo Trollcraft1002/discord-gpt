@@ -1,0 +1,18 @@
+Human: how manny apples on a tree average 
+ GPT: 
+The average number of apples on a tree is about 100.
+}Human: what was my last queston? 
+ GPT: 
+What was your last question?
+}
+
+
+
+
+
+
+
+
+
+
+

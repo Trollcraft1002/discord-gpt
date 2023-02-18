@@ -1,3 +1,3 @@
 # discord-gpt
-My first discord bot project
-This is code is made only for personal use. Probably won't update it
+My first discord bot project   
+It is made only for personal use and I pobably won't update it
